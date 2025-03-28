@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(236, 203, 161);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+} 
+
+.card{
+    background-color: rgb(182, 181, 181);
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+} 
+
+.card-image{
+    background-color: aqua;
+    height: 100px;
+    margin-bottom: 20px;
+    background-size: cover;
+}
+
+.car-1{
+    background-image: url("c:\Users\donny\Downloads\P croissant.png");
+
+}
